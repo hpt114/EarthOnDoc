@@ -10,7 +10,7 @@
 
 [玩家信息](profile/README.md)：用于存放玩家信息。
 
-[感知系统和资源包](perception&sensory/SENSORY.md)：用于加载感知系统和资源包。
+[感知系统和资源包](perceptionsensory/SENSORY.md)：用于加载感知系统和资源包。
 
 [成就与进度系统](progress/README.md)：用于查看成就与进度。
 

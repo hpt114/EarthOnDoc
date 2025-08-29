@@ -1,12 +1,5 @@
 # EarthOnDoc
 
-<a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/">
-  <img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" />
-</a>
-<br>
-本作品采用<a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/">知识共享署名-非商业性使用-相同方式共享 4.0 国际许可协议</a>进行许可。
-
-
 ## 概述
 
 EarthOnDoc不是真正的游戏，又胜似游戏，它是一个思想实验开放平台。没有复杂的东西，只有MarkDown和表格。我们不提供“技能”“知识”“资源包”“MOD”的具体内容，只提供介绍和列表，具体内容需要你自己在现实中寻找。我们没有“成就与进度”的奖励，也不记录哪些人达成（文明级别成就除外），如果你达成了，可以主动分享，奖励在哪里你自己去理会。
@@ -25,7 +18,7 @@ EarthOnDoc/
 
 ┃ ┃ ┗ **README.md** 个人信息介绍
 
-┃ ┣ perception&sensory/ 感知系统和资源包
+┃ ┣ perceptionsensory/ 感知系统和资源包
 
 ┃ ┃ ┣ **SENSORY.md** 感知系统介绍
 
@@ -92,12 +85,6 @@ EarthOnDoc/
 ┣ micro 微型EarthOnDoc（适用于小型设备）
 
 ┃ ┣ PROFILE.txt 微型玩家信息
-
-┃ ┣ PROGRESS.txt 微型成就与进度系统
-
-┃ ┣ EVENT.txt 微型事件系统
-
-┃ ┣ SENSORY.txt 微型感知系统
 
 ┃ ┗ [README.txt](micro/README.txt) 微型EarthOnDoc介绍
 
