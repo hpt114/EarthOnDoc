@@ -12,47 +12,13 @@ EarthOnDoc/
 
 ┃ ┣ profile/ 玩家信息（请勿用于非法用途）
 
-┃ ┃ ┣ hpt114.csv hpt114的信息，可作为参考
-
-┃ ┃ ┣ DEAD.csv 逝者信息
-
-┃ ┃ ┗ **README.md** 个人信息介绍
-
 ┃ ┣ perceptionsensory/ 感知系统和资源包
-
-┃ ┃ ┣ **SENSORY.md** 感知系统介绍
-
-┃ ┃ ┣ LANGUAGE.md 语言资源包介绍
-
-┃ ┃ ┗ MAPS.md 地图资源包介绍
 
 ┃ ┣ progress/ 成就与进度系统
 
-┃ ┃ ┣ **README.md** 成就与进度系统介绍
-
-┃ ┃ ┣ PROGRESS.csv 个人进度列表
-
-┃ ┃ ┣ ACHIEVEMENTS.csv 个人成就列表
-
-┃ ┃ ┣ EVERYONE.csv 文明成就、文明进度列表
-
-┃ ┃ ┗ ENDINGS.csv 个人结局列表
-
 ┃ ┣ study/ 学习系统
 
-┃ ┃ ┣ **README.md** 学习系统介绍
-
-┃ ┃ ┣ AUTO.csv 自动安装列表
-
-┃ ┃ ┣ SKILLS.csv 技能列表
-
-┃ ┃ ┗ KNOWLEDGE.csv 知识列表
-
-┃ ┣ events/ 事件系统（记忆附赠）
-
-┃ ┃ ┣ **README.md** 事件系统介绍
-
-┃ ┃ ┗ MEMORY_LOG.csv 事件列表（请勿添加隐私和虚假事件）
+┃ ┣ events/ 事件系统
 
 ┃ ┗ [**README.md**](docs/README.md) 文档文件夹介绍
 
@@ -60,39 +26,21 @@ EarthOnDoc/
 
 ┃ ┣ [**README.md**](mods/README.md) 模组介绍
 
-┃ ┣ MOD.csv 官方模组列表
-
-┃ ┣ POLITICS_MOD/ 政治模组
-
-┃ ┃ ┣ README.md 政治模组介绍
-
-┃ ┃ ┣ 21ST.csv 政治模组（二十一世纪）
-
-┃ ┃ ┣ COLD_WAR.csv 政治模组（冷战）
-
-┃ ┃ ┣ WORLD_WAR.csv 政治模组（世界大战）
-
-┃ ┃ ┗ 19TH.csv 政治模组（十九世纪）
-
-┃ ┣ CHINA_MOD.csv 中国现代社会模组
-
-┃ ┣ COMMUNISM!_MOD.csv 共产主义模组
-
-┃ ┗ WAR_MOD.csv 战争模组
+┃ ┗ MOD.csv 官方模组列表
 
 ┣ micro 微型EarthOnDoc（适用于小型设备）
 
 ┃ ┣ PROFILE.txt 微型玩家信息
 
-┃ ┗ [README.txt](micro/README.txt) 微型EarthOnDoc介绍
+┃ ┗ [**README.txt**](micro/README.txt) 微型EarthOnDoc介绍
 
 ┣ README.md 项目介绍
 
 ┣ [FEATURES.txt](FEATURES.txt) 文档上的地球之诗
 
-┣ [COPYRIGHT.md](COPYRIGHT.md) 版权声明
+┣ [**COPYRIGHT.md**](COPYRIGHT.md) 版权声明
 
-┗ [LICENSE](LICENSE) 开源许可证
+┗ [**LICENSE**](LICENSE) 开源许可证
 
 ## 贡献与使用方法
 
