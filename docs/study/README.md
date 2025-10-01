@@ -18,7 +18,7 @@
 
 ## 链接
 
-[自动获取列表](AUTOcsv)
+[自动获取列表](AUTO.csv)
 
 [技能列表](SKILL.csv)
 

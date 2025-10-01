@@ -2,7 +2,41 @@
 
 ## 概述
 
-EarthOnDoc类似于地球Online，但是它没有游戏本体，只有CSV和文本文档。详情请看各大README md。
+EarthOnDoc类似于地球OL，但是没有游戏本体，它是一个思想实验开放平台。我们不提供“技能”“知识”“资源包”“MOD”本身，只提供介绍和列表，具体内容需要你自己在现实中寻找。我们没有“成就与进度”的奖励，也不记录哪些人达成（文明级别成就除外），奖励在哪里你自己去理会。
+
+## 项目结构
+
+EarthOnDoc/
+
+┣ docs/ 文档
+
+┃ ┣ profile/ 玩家信息，即个人信息
+
+┃ ┣ perceptionsensory/ 感知系统和资源包
+
+┃ ┣ progress/ 成就与进度系统
+
+┃ ┣ study/ 学习系统，即技能和知识
+
+┃ ┣ events/ 事件系统，记录事件
+
+┃ ┗ [**README.md**](docs/README.md) 文档文件夹介绍
+
+┣ mods/ 模组
+
+┃ ┣ [**README.md**](mods/README.md) 模组介绍
+
+┃ ┗ MOD.csv 官方模组列表
+
+┣ README.md 项目介绍
+
+┣ [FEATURES.txt](FEATURES.txt) 文档上的地球之诗
+
+┣ [**COPYRIGHT.md**](COPYRIGHT.md) 版权声明
+
+┣ [**CONTRIBUTING.md**](CONTRIBUTING.md) 版权声明
+
+┗ [**LICENSE**](LICENSE) 许可证
 
 ## 利用原则
 
