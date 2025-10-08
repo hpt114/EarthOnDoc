@@ -34,9 +34,9 @@ EarthOnDoc/
 
 ┣ [**COPYRIGHT.md**](COPYRIGHT.md) 版权声明
 
-┣ [**CONTRIBUTING.md**](CONTRIBUTING.md) 版权声明
+┣ [**CONTRIBUTING.md**](CONTRIBUTING.md) 贡献指南
 
-┗ [**LICENSE**](LICENSE) 许可证
+┗ [**LICENSE**](LICENSE) CC BY-NC-SA 4.0许可证
 
 ## 利用原则
 
@@ -45,4 +45,16 @@ EarthOnDoc/
 - 利用本项目内容道德绑架、逼迫、定义价值任何人。
 - 利用本项目内容进行考核、考试。
 - 利用本项目内容宣扬苦难、邪教、宿命论。
-- 违反[COPYRIGHT.md](COPYRIGHT.md)。
+- 违反[版权声明](COPYRIGHT.md)。
+
+## FAQ
+
+以下是常见问题与解答：
+
+Q:这个项目有什么用？
+
+A:这个项目纯粹是为地球OL增加更多可玩性。
+
+Q:我不是协作者，又很想添加，怎么办？
+
+A:在此项目的Issue中提出即可，由协作者添加，并且这算作贡献，仍需遵守[贡献指南](CONTRIBUTING.md)
